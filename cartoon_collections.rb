@@ -15,4 +15,5 @@ def find_the_cheese(array)
   cheese_types = ["cheddar", "gouda", "camembert"]
   
   cheese = array & cheese_types
+  if ch
 end
