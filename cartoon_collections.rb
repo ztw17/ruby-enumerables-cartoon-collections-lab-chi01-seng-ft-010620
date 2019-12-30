@@ -16,4 +16,6 @@ def find_the_cheese(array)
   
   cheese = array & cheese_types
   if cheese.empty?
+    return nil 
+    
 end
