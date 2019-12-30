@@ -19,4 +19,5 @@ def find_the_cheese(array)
     return nil 
   else
     cheese.join
+  end
 end
